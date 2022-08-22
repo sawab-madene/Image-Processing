@@ -1,0 +1,22 @@
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\bin\Debug\image001.exe.config
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\bin\Debug\image001.exe
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\bin\Debug\image001.pdb
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.Form1.resources
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.Properties.Resources.resources
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.exe
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\image001\image001\obj\Debug\image001.pdb
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\bin\Debug\image001.exe.config
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\bin\Debug\image001.exe
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\bin\Debug\image001.pdb
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.Form1.resources
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.Properties.Resources.resources
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.exe
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\4- Virtual laboratory report 4\app. 1 image processing utility\image001\obj\Debug\image001.pdb

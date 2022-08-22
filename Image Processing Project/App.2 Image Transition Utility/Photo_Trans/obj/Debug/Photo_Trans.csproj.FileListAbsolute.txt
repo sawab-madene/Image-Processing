@@ -1,0 +1,11 @@
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\bin\Debug\Photo_Trans.exe.config
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\bin\Debug\Photo_Trans.exe
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\bin\Debug\Photo_Trans.pdb
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.Form1.resources
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.Properties.Resources.resources
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.exe
+C:\Users\hp\Downloads\uskudar\semester 3\Image Processing\Virtual laboratory report\6-Virtual laboratory report 6\Photo_Trans\Photo_Trans\obj\Debug\Photo_Trans.pdb

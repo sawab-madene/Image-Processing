@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photo_Trans", "Photo_Trans\Photo_Trans.csproj", "{01C7EF82-5002-4279-9A0B-47616E85B403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C7EF82-5002-4279-9A0B-47616E85B403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C7EF82-5002-4279-9A0B-47616E85B403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C7EF82-5002-4279-9A0B-47616E85B403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C7EF82-5002-4279-9A0B-47616E85B403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906ADCDC-8647-4F99-91B2-28A0C3F5EF6A}
+	EndGlobalSection
+EndGlobal
