@@ -6,7 +6,7 @@ This project has two parts:  <br/>
 🌟 Copy  1.jpg and Paste it in Local Disk (C:) <br/> 
 🌟 Copy  2.jpg and Paste it in Local Disk (C:)
 ## App.1 Image processing utility
-The First Application  is about processingimages ,program that load a colored image  and then is should do the following:<br/> 
+The First Application  is about processing images ,program that load a colored image  and then is should do the following:<br/> 
 &emsp;  • Show the image after filtering using Mean and Gaussian Filter <br/> 
 &emsp;  • Find Image edges <br/> 
 &emsp;  • Sharpen the image<br/> 
