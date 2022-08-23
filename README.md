@@ -6,7 +6,15 @@ This project has two parts:  <br/>
 🌟 Copy  1.jpg and Paste it in Local Disk (C:) <br/> 
 🌟 Copy  2.jpg and Paste it in Local Disk (C:)
 ## App.1 Image processing utility
-The First Application  is about processing , enhancing and extracting useful information from images . It has multiples functionalities: <br/> <br/>
+The First Application  is about processingimages ,program that load a colored image  and then is should do the following:<br/> 
+&emsp;  • Show the image after filtering using Mean and Gaussian Filter <br/> 
+&emsp;  • Find Image edges <br/> 
+&emsp;  • Sharpen the image<br/> 
+&emsp;  • Modify Brightness and Contrast with a  user defined value <br/> 
+&emsp;  • Apply Gama Correction <br/> 
+&emsp;  • Rescale the image (up and down)<br/> 
+&emsp;  • Rotate The image (arbitrary, flip, 90, 180)<br/> 
+
 &emsp; &emsp; &emsp; 👁️‍🗨️ **please read this first**  <br/> 
 🌟 Open  App.1 Image processing utility and run Form1.cs <br/> 
 🌟 click Load button  <br/> 
@@ -66,7 +74,10 @@ The First Application  is about processing , enhancing and extracting useful inf
 ![image](https://user-images.githubusercontent.com/90453702/186153906-2353e39f-52a7-4361-85aa-449a09312ab7.png)
 
 ## App.2 Image Transition Utility <br/>
-The Sercond Application  is about making some transitions on images . It has multiples functionalities: <br/> <br/>
+The Second Application  is about making some transitions on images . Program that load a colored image  and then is should do the following:
+&emsp;  • Fade <br/>
+&emsp;  • Replace (vertical, horizontal, diagonal)
+ <br/> <br/>
 &emsp; &emsp; &emsp; 👁️‍🗨️ **please read this first**  <br/> 
 🌟 Open  App.2 Image Transition Utility and run Form1.cs <br/> 
 🌟 click Load IMG1  and Load IMG1 button  <br/> 
