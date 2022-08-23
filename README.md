@@ -8,6 +8,7 @@ This project has two parts:  <br/>
 ## App.1 Image processing utility
 The First Application  is about processing , enhancing and extracting useful information from images . It has multiples functionalities: <br/> <br/>
 &emsp; &emsp; &emsp; 👁️‍🗨️ **please read this first**  <br/> 
+🌟 Open  App.1 Image processing utility and run Form1.cs <br/> 
 🌟 click Load button  <br/> 
 🌟 click on any function button that you want  
 #### :point_right: App.1 - Fct.1 : Mean Filter 	👁️‍🗨️ 👻 <br/>
@@ -67,6 +68,7 @@ The First Application  is about processing , enhancing and extracting useful inf
 ## App.2 Image Transition Utility <br/>
 The Sercond Application  is about making some transitions on images . It has multiples functionalities: <br/> <br/>
 &emsp; &emsp; &emsp; 👁️‍🗨️ **please read this first**  <br/> 
+🌟 Open  App.2 Image Transition Utility and run Form1.cs <br/> 
 🌟 click Load IMG1  and Load IMG1 button  <br/> 
 🌟 click on any function button that you want 
 #### App.2 - Fct.1 : Fade 🌃 🌃 <br/>
