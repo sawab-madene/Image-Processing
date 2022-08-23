@@ -33,13 +33,13 @@ namespace Photo_Trans
 
         private void button4_Click(object sender, EventArgs e)
         {
-            IMG_From = new Bitmap("C:/Users/hp/Downloads/1.jpg");
+            IMG_From = new Bitmap("C://1.jpg");
             pictureBox1.Image = IMG_From;
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            IMG_To = new Bitmap("C:/Users/hp/Downloads/2.jpg");
+            IMG_To = new Bitmap("C://2.jpg");
             pictureBox2.Image = IMG_To;
         }
 
