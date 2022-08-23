@@ -74,7 +74,7 @@ The First Application  is about processing images ,program that load a colored i
 ![image](https://user-images.githubusercontent.com/90453702/186153906-2353e39f-52a7-4361-85aa-449a09312ab7.png)
 
 ## App.2 Image Transition Utility <br/>
-The Second Application  is about making some transitions on images . Program that load a colored image  and then is should do the following:
+The Second Application  is about making some transitions on images . Program that load a colored image  and then is should do the following:<br/>
 &emsp;  • Fade <br/>
 &emsp;  • Replace (vertical, horizontal, diagonal)
  <br/> <br/>
