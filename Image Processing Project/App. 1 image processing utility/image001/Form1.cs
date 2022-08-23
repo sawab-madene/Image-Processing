@@ -408,7 +408,7 @@ namespace image001
 
         private void button18_Click(object sender, EventArgs e)
         {
-            pictureBox1.Load("C:\\Users\\hp\\Downloads\\2.jpg");
+            pictureBox1.Load("C:\\2.jpg");
             SRC_IMG = new Bitmap(pictureBox1.Image);
             DEST_IMG = new Bitmap(SRC_IMG.Width, SRC_IMG.Height);
             Temp_IMG= new Bitmap(SRC_IMG.Width, SRC_IMG.Height);
